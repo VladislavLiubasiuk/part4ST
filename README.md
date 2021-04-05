@@ -1,6 +1,6 @@
 # part4ST
 part 1
-???
+created the whole testing project, moved to git-specific folder and linked it to github depository
 
 part2
 ???
