@@ -1,5 +1,5 @@
 # part4ST
-part 1 /n
+part 1 \n
 ???
 part2
 ???
